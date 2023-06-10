@@ -31,7 +31,7 @@ public class Main {
             arr[j]=merge[i];
         }
 
-
+//hh
     }
     public static void main(String[] args) {
         int arr[]={1,4,5,0,100,111111,6,1,2};
